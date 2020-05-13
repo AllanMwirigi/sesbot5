@@ -1,0 +1,5 @@
+
+ landscape orientation
+
+http://www.ahotbrew.com/how-to-detect-forward-and-backward-tilt/  
+https://google-developer-training.gitbooks.io/android-developer-advanced-course-practicals/unit-1-expand-the-user-experience/lesson-3-sensors/3-2-p-working-with-sensor-based-orientation/3-2-p-working-with-sensor-based-orientation.html
